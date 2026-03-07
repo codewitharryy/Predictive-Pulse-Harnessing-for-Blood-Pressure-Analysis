@@ -71,7 +71,8 @@ Predictive Pulse is a machine learning project focused on classifying hypertensi
 <img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/f772dfda-8ba8-4a35-a95a-2c76b7efe8c1" />
 
 ---
-https://youtu.be/OMVoKloUDJE
+**Demo video**
+https://drive.google.com/file/d/19x5bR3oeCFtcr048QsKxihZCt6rbifJ_/view?usp=sharing
 
 
 ## License
